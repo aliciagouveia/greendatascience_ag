@@ -1,6 +1,7 @@
 from myfunctions import mysqrt, mysin, mycos, myarcsin, sin45, cos45
 from myhaversine import myhaversine
 import math
+import csv
 
 def main():
     test_mysqrt()
