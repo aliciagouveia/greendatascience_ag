@@ -10,5 +10,3 @@ def test_word_with_um():
 def test_surrounded_by_space():
     assert count ("Hello um world") == 1
 
-if __name__ == "__main__":
-    main() 
